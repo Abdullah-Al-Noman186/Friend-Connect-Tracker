@@ -119,7 +119,10 @@ const FriendsDetail = () => {
         </div>
 
         <div className="card card-side bg-base-100 shadow-sm p-4  w-auto mx-auto mt-4">
-          <h3 className="font-black">Relationship Goal</h3>
+           <div>
+             <h3 className="font-black">Relationship Goal</h3>
+             <button className="btn btn-primary">Edit</button>
+           </div>
           <p>Connect every {friend.goal} days</p>
         </div>
 
