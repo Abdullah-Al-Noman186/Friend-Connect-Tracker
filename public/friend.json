@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Arif Hasan",
+    "picture": "/images/arif.png",
+    "email": "arif.hasan@gmail.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["university", "roommate"],
+    "bio": "My roommate during university life. We used to code late nights and share ideas about startups.",
+    "goal": 14,
+    "next_due_date": "2026-04-10"
+  },
+  {
+    "id": 2,
+    "name": "Nusrat Jahan",
+    "picture": "/images/nusrat.png",
+    "email": "nusrat.jahan@yahoo.com",
+    "days_since_contact": 10,
+    "status": "almost due",
+    "tags": ["college", "close friend"],
+    "bio": "We met in college and still catch up about life goals and career plans over long phone calls.",
+    "goal": 14,
+    "next_due_date": "2026-04-21"
+  },
+  {
+    "id": 3,
+    "name": "Rakib Ahmed",
+    "picture": "/images/rakib.png",
+    "email": "rakib.ahmed@outlook.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["gym", "fitness"],
+    "bio": "Gym partner who keeps me consistent. We motivate each other to stay disciplined.",
+    "goal": 14,
+    "next_due_date": "2026-04-26"
+  },
+  {
+    "id": 4,
+    "name": "Sadia Rahman",
+    "picture": "/images/sadia.png",
+    "email": "sadia.rahman@gmail.com",
+    "days_since_contact": 20,
+    "status": "overdue",
+    "tags": ["school", "childhood"],
+    "bio": "Childhood friend from school. We grew up in the same neighborhood and shared countless memories.",
+    "goal": 14,
+    "next_due_date": "2026-04-08"
+  },
+  {
+    "id": 5,
+    "name": "Mahmudul Karim",
+    "picture": "/images/karim.png",
+    "email": "mahmud.karim@gmail.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["work", "colleague"],
+    "bio": "Office colleague who helped me learn professional communication and teamwork.",
+    "goal": 14,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 6,
+    "name": "Farzana Akter",
+    "picture": "/images/farjana.png",
+    "email": "farzana.akter@gmail.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["neighbor", "family friend"],
+    "bio": "Lives nearby and our families are close. We often meet during festivals and community events.",
+    "goal": 14,
+    "next_due_date": "2026-04-28"
+  },
+  {
+    "id": 7,
+    "name": "Tanvir Hossain",
+    "picture": "/images/tanvir.png",
+    "email": "tanvir.hossain@gmail.com",
+    "days_since_contact": 16,
+    "status": "overdue",
+    "tags": ["freelancing", "developer"],
+    "bio": "Met through freelancing projects. We often discuss new technologies and client strategies.",
+    "goal": 14,
+    "next_due_date": "2026-04-12"
+  },
+  {
+    "id": 8,
+    "name": "Mim Chowdhury",
+    "picture": "/images/mim.png",
+    "email": "mim.chowdhury@gmail.com",
+    "days_since_contact": 7,
+    "status": "on-track",
+    "tags": ["university", "study group"],
+    "bio": "We studied together for exams and still help each other with learning new skills.",
+    "goal": 14,
+    "next_due_date": "2026-04-24"
+  }
+]
