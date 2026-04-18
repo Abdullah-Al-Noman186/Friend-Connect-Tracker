@@ -59,7 +59,7 @@ const Timeline = () => {
 
             <div>
               <p>
-                You <b>{item.type}</b> with <b>{item.name}</b>
+                <b>{item.type}</b> with <b>{item.name}</b>
               </p>
               <p className="text-sm text-gray-500">{item.time}</p>
             </div>
