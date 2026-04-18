@@ -107,7 +107,7 @@ const Homepage = () => {
         </div>
 
         <div
-          className={`badge ${getStatusBg(friend.status)} rounded-full mt-3 px-3 py-2`}
+          className={`badge ${getStatusBg(friend.status)} rounded-full mt-3 px-3 py-2 w-30 mx-auto`}
         >
           {friend.status}
         </div>
